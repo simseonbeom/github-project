@@ -3,7 +3,9 @@
 
 function login() {
   return (
-    <div>login</div>
+    <div>
+      로그인 기능 구현
+    </div>
   )
 }
 
